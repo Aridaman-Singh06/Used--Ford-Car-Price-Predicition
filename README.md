@@ -9,7 +9,7 @@ What should a used car cost? Buyers and dealers want a fair price based on the c
 File: ford.csv, 17,966 used Ford cars and 9 columns, with no missing values
 Columns: model, year, price (target), transmission, mileage, fuelType, tax, mpg, engineSize
 Average price is about 12,280; the average mileage is about 23,400.
-Source: [[ADD LINK TO WHERE YOU DOWNLOADED THE DATASET, e.g. its Kaggle page]]
+
 # Approach
 Exploratory data analysis — price distribution, correlation heatmap, price against year, mileage, engine size, transmission, fuel type and model (box plots and scatter plots), and tax against mpg
 Encoding — two methods compared:
